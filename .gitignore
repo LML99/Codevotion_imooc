@@ -1,0 +1,5 @@
+*.dropbox.attr
+*.class
+*.project
+
+!*.java
